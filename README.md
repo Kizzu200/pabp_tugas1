@@ -282,7 +282,7 @@ interface CartContextType {
    - Recap teknologi
    - Terima kasih
 
-## Catatan Pengembangan
+##git remote set-url origin <url-baru> Catatan Pengembangan
 
 ### Mengapa Memilih Arsitektur Ini?
 
@@ -338,6 +338,8 @@ Semester 4 - PABP
 - Advanced error tracking
 - Analytics
 - Testing (Jest, React Testing Library)
-#   p a b p _ t u g a s 1  
- #   p a b p _ t u g a s 1  
+#   p a b p _ t u g a s 1 
+ 
+ #   p a b p _ t u g a s 1 
+ 
  
